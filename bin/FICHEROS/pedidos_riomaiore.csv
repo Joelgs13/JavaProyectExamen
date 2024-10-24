@@ -1,0 +1,31 @@
+Id,Nombre cliente,Precio,Descripción pizza,Punto recogida,Fecha,Hora
+1,Carlos,9.75,Hawaiana,Local 1,20241015,1250
+2,Juan,8.99,4 Quesos,Local 1,20241012,0849
+3,Ana,10.25,Vegetal,Local 3,20240929,0252
+4,Pedro,9.75,Diavola,Local 1,20240922,1917
+5,Carlos,10.25,Carbonara,Local 2,20240929,1231
+6,Lucia,9.75,Carbonara,Local 1,20240923,1533
+7,Laura,12.50,Vegetal,Local 1,20241004,1000
+8,Pedro,13.50,Margarita,Local 1,20241016,0518
+9,Juan,9.75,Hawaiana,Local 1,20241005,0501
+10,Sofia,8.99,Barbacoa,Local 2,20240930,1704
+11,Luis,13.50,Carbonara,Local 3,20241004,1909
+12,Carlos,9.75,Margarita,Local 3,20240922,2023
+13,Miguel,11.20,Carbonara,Local 3,20241002,1933
+14,Lucia,8.99,Carbonara,Local 2,20240921,2143
+15,Juan,10.25,Diavola,Local 3,20240926,0958
+16,Laura,13.50,Barbacoa,Local 2,20240927,0505
+17,Carlos,11.20,Barbacoa,Local 2,20240925,0033
+18,Ana,13.50,Vegetal,Local 2,20240929,0458
+19,Ana,10.25,4 Quesos,Local 3,20241009,0124
+20,Lucia,12.50,Diavola,Local 3,20241009,0117
+21,Luis,8.99,Diavola,Local 1,20241016,0704
+22,Ana,13.50,Barbacoa,Local 1,20241011,2230
+23,Lucia,15.00,Vegetal,Local 3,20240922,1046
+24,Maria,13.50,Vegetal,Local 3,20240920,1223
+25,Sofia,13.50,Margarita,Local 1,20240925,1537
+26,Lucia,13.50,Pepperoni,Local 1,20241016,0242
+27,Pedro,13.50,Margarita,Local 3,20240924,1659
+28,Juan,10.25,Barbacoa,Local 3,20241009,1329
+29,Pedro,11.20,Diavola,Local 1,20240930,1136
+30,Miguel,8.99,Carbonara,Local 3,20240921,0145
